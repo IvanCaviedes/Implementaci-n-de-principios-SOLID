@@ -1,0 +1,13 @@
+C:\Users\ivanc\source\repos\Actividad2\Actividad2\obj\Debug\netcoreapp3.1\Actividad2.csprojAssemblyReference.cache
+C:\Users\ivanc\source\repos\Actividad2\Actividad2\obj\Debug\netcoreapp3.1\Actividad2.AssemblyInfoInputs.cache
+C:\Users\ivanc\source\repos\Actividad2\Actividad2\obj\Debug\netcoreapp3.1\Actividad2.AssemblyInfo.cs
+C:\Users\ivanc\source\repos\Actividad2\Actividad2\obj\Debug\netcoreapp3.1\Actividad2.csproj.CoreCompileInputs.cache
+C:\Users\ivanc\source\repos\Actividad2\Actividad2\bin\Debug\netcoreapp3.1\Actividad2.exe
+C:\Users\ivanc\source\repos\Actividad2\Actividad2\bin\Debug\netcoreapp3.1\Actividad2.deps.json
+C:\Users\ivanc\source\repos\Actividad2\Actividad2\bin\Debug\netcoreapp3.1\Actividad2.runtimeconfig.json
+C:\Users\ivanc\source\repos\Actividad2\Actividad2\bin\Debug\netcoreapp3.1\Actividad2.runtimeconfig.dev.json
+C:\Users\ivanc\source\repos\Actividad2\Actividad2\bin\Debug\netcoreapp3.1\Actividad2.dll
+C:\Users\ivanc\source\repos\Actividad2\Actividad2\bin\Debug\netcoreapp3.1\Actividad2.pdb
+C:\Users\ivanc\source\repos\Actividad2\Actividad2\obj\Debug\netcoreapp3.1\Actividad2.dll
+C:\Users\ivanc\source\repos\Actividad2\Actividad2\obj\Debug\netcoreapp3.1\Actividad2.pdb
+C:\Users\ivanc\source\repos\Actividad2\Actividad2\obj\Debug\netcoreapp3.1\Actividad2.genruntimeconfig.cache
